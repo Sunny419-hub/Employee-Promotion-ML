@@ -1,1 +1,2 @@
-
+Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC
+Random Forest Classifier,0.9052,0.7739,0.3404,0.441,0.3843,0.3338,0.3371
