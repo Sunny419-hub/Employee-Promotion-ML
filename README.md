@@ -20,4 +20,3 @@ Predicción de candidatos elegibles para promoción laboral utilizando AutoML co
 ---
 
 🔗 [Repositorio en GitHub](https://github.com/Sunny419-hub/Employee-Promotion-ML)
-
